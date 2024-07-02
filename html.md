@@ -10,8 +10,6 @@
 
 <h1> the most serious man</h1>
 <p> the most embaracing thing for watching<p>
-
-
     </body>
 
 
